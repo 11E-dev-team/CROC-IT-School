@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"f63975d4fe1221f6","type":"text","text":"#### Учитель","x":-160,"y":-160,"width":250,"height":72,"color":"#000000"},
+		{"id":"7229e6fee6173d36","type":"text","text":"Не нравится","x":90,"y":-280,"width":250,"height":60,"color":"1"},
+		{"id":"dfcfab390baf0f0f","type":"text","text":"Нравится","x":-410,"y":-280,"width":250,"height":60,"color":"4"},
+		{"id":"edfbb01c9fa1a9a8","type":"text","text":"Задавать ученикам задания ссылкой","x":685,"y":-351,"width":250,"height":263,"color":"1"},
+		{"id":"afffb29ef2e73e0d","type":"text","text":"Отсутствие аудитории вначале занятия","x":560,"y":-622,"width":250,"height":203,"color":"1"},
+		{"id":"a7717fef203c989b","type":"text","text":"Отутствие мотивации и внимания у ученика","x":395,"y":-860,"width":250,"height":181,"color":"1"},
+		{"id":"4181fcfe7f162d82","type":"text","text":"Большое количество человек в одной конференции","x":90,"y":-864,"width":250,"height":180,"color":"1"},
+		{"id":"95266e55c89436d6","type":"text","text":"Школьную программу невозможно адаптировать под дистанционное обучение","x":-80,"y":228,"width":250,"height":292,"color":"5"},
+		{"id":"b496481dbad93964","type":"text","text":"Отсутствие визуального контакта с учеником","x":560,"y":213,"width":250,"height":191,"color":"1"},
+		{"id":"6f2bc327123fa8a9","type":"text","text":"Проблемы с техникой и прерывания трансляций","x":645,"y":-24,"width":250,"height":173,"color":"1"},
+		{"id":"ebc7a46cdceef772","type":"text","text":"Вживую проще контролировать состояние класса","x":270,"y":323,"width":250,"height":197,"color":"5"},
+		{"id":"650c916e9419d28a","type":"text","text":"Следить за работой учеников во время дистанционного урока","x":-330,"y":-901,"width":250,"height":279,"color":"6"},
+		{"id":"82456bf8de33a484","type":"text","text":"Пить чай с любимым вареньем, а не с тем, которое есть в школе","x":-725,"y":-638,"width":250,"height":219,"color":"4"},
+		{"id":"773d86f70d1f970c","type":"text","text":"Беседа заинтересованных людей","x":-800,"y":-265,"width":282,"height":141,"color":"4"},
+		{"id":"1cc05af2861c71b1","type":"text","text":"Самоорганизацию учащихся","x":-813,"y":76,"width":295,"height":87,"color":"3"},
+		{"id":"dba3addf10251527","type":"text","text":"Присутствия учеников на уроках не формально, а головой","x":-440,"y":267,"width":250,"height":214,"color":"3"},
+		{"id":"1fc14ea681bdf3f9","type":"text","text":"Не получается","x":-190,"y":-449,"width":250,"height":60,"color":"6"},
+		{"id":"0812e92f2b91f4d2","type":"text","text":"Хотел бы","x":-410,"y":-11,"width":250,"height":60,"color":"3"},
+		{"id":"e16e349bc0f843ba","type":"text","text":"Считает что","x":90,"y":-11,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"fb6851f063ae9365","fromNode":"f63975d4fe1221f6","fromSide":"top","toNode":"1fc14ea681bdf3f9","toSide":"bottom"},
+		{"id":"90f15154d991e770","fromNode":"f63975d4fe1221f6","fromSide":"bottom","toNode":"e16e349bc0f843ba","toSide":"left"},
+		{"id":"ba66b02384be23b9","fromNode":"f63975d4fe1221f6","fromSide":"top","toNode":"7229e6fee6173d36","toSide":"left"},
+		{"id":"1e5bf5829c4b5bfa","fromNode":"f63975d4fe1221f6","fromSide":"top","toNode":"dfcfab390baf0f0f","toSide":"right"},
+		{"id":"1f1cbf395269365d","fromNode":"1fc14ea681bdf3f9","fromSide":"top","toNode":"650c916e9419d28a","toSide":"bottom"},
+		{"id":"53735310dc1a29e0","fromNode":"dfcfab390baf0f0f","fromSide":"left","toNode":"82456bf8de33a484","toSide":"right"},
+		{"id":"89742c553ec3d370","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"edfbb01c9fa1a9a8","toSide":"left"},
+		{"id":"ed37c7632dde3242","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"afffb29ef2e73e0d","toSide":"bottom"},
+		{"id":"2bf203ddaa833643","fromNode":"e16e349bc0f843ba","fromSide":"bottom","toNode":"95266e55c89436d6","toSide":"top"},
+		{"id":"9ee876803ede7c74","fromNode":"e16e349bc0f843ba","fromSide":"bottom","toNode":"ebc7a46cdceef772","toSide":"top"},
+		{"id":"7c8785e7f9552285","fromNode":"f63975d4fe1221f6","fromSide":"bottom","toNode":"0812e92f2b91f4d2","toSide":"right"},
+		{"id":"0662e385a4e8cb06","fromNode":"0812e92f2b91f4d2","fromSide":"bottom","toNode":"1cc05af2861c71b1","toSide":"right"},
+		{"id":"4b73df19653ff80e","fromNode":"0812e92f2b91f4d2","fromSide":"bottom","toNode":"dba3addf10251527","toSide":"top"},
+		{"id":"c96d52897dcd94a6","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"6f2bc327123fa8a9","toSide":"left"},
+		{"id":"1e3a9fb94430d8ca","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"a7717fef203c989b","toSide":"bottom"},
+		{"id":"4b8cccb9f13afa4b","fromNode":"dfcfab390baf0f0f","fromSide":"left","toNode":"773d86f70d1f970c","toSide":"right"},
+		{"id":"32bb4dbfb8d7ec20","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"b496481dbad93964","toSide":"left"},
+		{"id":"8b2b5f44eb403bba","fromNode":"7229e6fee6173d36","fromSide":"right","toNode":"4181fcfe7f162d82","toSide":"bottom"}
+	]
+}

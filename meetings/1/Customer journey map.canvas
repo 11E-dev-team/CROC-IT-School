@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a48a73a3a8bf08df","x":-60,"y":-409,"width":250,"height":60,"type":"text","text":"11 часов"},
+		{"id":"93e55a12274657fb","x":-60,"y":-302,"width":250,"height":60,"type":"text","text":"Конец 3 урока"},
+		{"id":"b39b9da9b603d2d6","x":-60,"y":0,"width":250,"height":94,"color":"2","type":"text","text":"Чувствуется голод"},
+		{"id":"609908e64efbb369","x":-740,"y":-409,"width":250,"height":60,"type":"text","text":"8 утра"},
+		{"id":"e1795e6cf23fde47","x":-740,"y":-302,"width":250,"height":60,"type":"text","text":"Завтрак дома"},
+		{"id":"83fece69c8c3146b","x":-440,"y":-409,"width":250,"height":60,"type":"text","text":"9 утра "},
+		{"id":"d117032074dab807","x":-440,"y":-333,"width":250,"height":91,"type":"text","text":"1 урок начало учебного дня "},
+		{"id":"c3a5512786450f6f","x":-440,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Сыт"},
+		{"id":"66c935e2884ebac4","x":-740,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Сыт"},
+		{"id":"a2105da691421bc2","x":300,"y":-409,"width":250,"height":60,"type":"text","text":"12 часов "},
+		{"id":"b8288c732a6d930f","x":300,"y":-333,"width":250,"height":91,"type":"text","text":"Поход в буфет, съел пирожок"},
+		{"id":"3cb6b7fac51cc00e","x":300,"y":-86,"width":250,"height":92,"color":"2","type":"text","text":"Немного утолил голод"},
+		{"id":"7dd6752ae60f5e51","x":760,"y":-409,"width":250,"height":60,"type":"text","text":"15 часов"},
+		{"id":"c6586cefc6063ee9","x":760,"y":-302,"width":250,"height":60,"type":"text","text":"Конец 7 урока"},
+		{"id":"3a90562d5f08ac7a","x":760,"y":120,"width":250,"height":60,"color":"1","type":"text","text":"Очнь голодный"},
+		{"id":"c9c388a10aabbc98","x":1240,"y":-409,"width":250,"height":60,"type":"text","text":"\\> 15 часов"},
+		{"id":"0da1acecfc96df7f","x":1240,"y":-302,"width":250,"height":60,"type":"text","text":"Дома"},
+		{"id":"e184cb5bf2a89ce4","x":1240,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Сыт"},
+		{"id":"4993cc384fcc2a4e","x":300,"y":320,"width":250,"height":131,"color":"5","type":"text","text":"В буфете скудный выбор"},
+		{"id":"002b09bc6ace3504","x":760,"y":320,"width":250,"height":83,"color":"5","type":"text","text":"7 часов с одним перекусом"}
+	],
+	"edges":[
+		{"id":"ff45d28d2615a037","fromNode":"66c935e2884ebac4","fromSide":"right","toNode":"c3a5512786450f6f","toSide":"left"},
+		{"id":"cf467694dc9e1acb","fromNode":"c3a5512786450f6f","fromSide":"right","toNode":"b39b9da9b603d2d6","toSide":"left"},
+		{"id":"83e68a6d66b0c26d","fromNode":"b39b9da9b603d2d6","fromSide":"right","toNode":"3cb6b7fac51cc00e","toSide":"left"},
+		{"id":"bcf5086259e29ab6","fromNode":"3cb6b7fac51cc00e","fromSide":"right","toNode":"3a90562d5f08ac7a","toSide":"left"},
+		{"id":"f0172d4965ee2431","fromNode":"3a90562d5f08ac7a","fromSide":"right","toNode":"e184cb5bf2a89ce4","toSide":"left"}
+	]
+}

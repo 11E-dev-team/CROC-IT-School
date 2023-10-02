@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"55bef7bc1fabd7ae","type":"text","text":"Неудобно размещать задания","x":320,"y":70,"width":250,"height":132,"color":"2"},
+		{"id":"34dd7c7ba1d3ea20","type":"text","text":"Преподаватель размещает задание","x":320,"y":-483,"width":250,"height":130},
+		{"id":"9f34aece73e5b09a","type":"text","text":"Не могу отслеживать кто работает","x":675,"y":129,"width":250,"height":142,"color":"1"},
+		{"id":"240808e9c653bee8","type":"text","text":"Преподаватель ждет пока ученики решат задание","x":675,"y":-540,"width":250,"height":186},
+		{"id":"7917067579bacfd9","type":"text","text":"Общее обсуждение ","x":1060,"y":-455,"width":250,"height":102},
+		{"id":"57b44f1b71cab2b0","type":"text","text":"Мало детей работает","x":1040,"y":200,"width":250,"height":89,"color":"1"},
+		{"id":"a6f1056fa904f501","type":"text","text":"Теряем много времени зря","x":1420,"y":227,"width":250,"height":88,"color":"1"},
+		{"id":"b7a2264da30ee776","type":"text","text":"Технические неполадки","x":1420,"y":-445,"width":250,"height":91},
+		{"id":"591374b09fc1d2a3","type":"text","text":"Урок продолжается","x":1760,"y":-450,"width":250,"height":96},
+		{"id":"26b6b06ac137727f","type":"text","text":"Продолжаем заниматься","x":1760,"y":155,"width":250,"height":90,"color":"1"},
+		{"id":"6f1ad263a2464e1a","type":"text","text":"Преподаватель озвучивает дз","x":2080,"y":-444,"width":250,"height":91},
+		{"id":"218bbadc60d81cd3","type":"text","text":"Неудобно размещать дз","x":2080,"y":155,"width":250,"height":91,"color":"1"},
+		{"id":"b4254aab3fd942c1","type":"text","text":"Наконец-то отдых","x":2420,"y":112,"width":250,"height":87,"color":"1"},
+		{"id":"0f5a3bc2ac457126","type":"text","text":"Конец урока","x":2420,"y":-413,"width":250,"height":60},
+		{"id":"a54f4ae2583740cd","type":"text","text":"Отвечаю на вопросы","x":2780,"y":-20,"width":250,"height":99,"color":"2"},
+		{"id":"0390952669681cce","type":"text","text":"Пью чай с любимым вареньем","x":3180,"y":-260,"width":250,"height":136,"color":"4"},
+		{"id":"e749ee90e5b09f2a","type":"text","text":"Перерыв","x":3180,"y":-413,"width":250,"height":60},
+		{"id":"3002202fb82aecc4","type":"text","text":"Заинтересованные ученики пишут по поводу задания","x":2765,"y":-508,"width":280,"height":155},
+		{"id":"9253683a8b20ef06","type":"text","text":"Мало присутствующих, большинство без камер","x":-60,"y":17,"width":291,"height":183,"color":"2"},
+		{"id":"9c593fe917cb7308","type":"text","text":"Немного хочется спать","x":-510,"y":-21,"width":360,"height":90,"color":"3"},
+		{"id":"25f3980be525aca0","type":"text","text":"Преподаватель запускает конференцию","x":-60,"y":-483,"width":291,"height":129},
+		{"id":"ad766b9328e0d078","type":"text","text":"Подъём и утренние дела","x":-510,"y":-418,"width":360,"height":65}
+	],
+	"edges":[
+		{"id":"427f3f060cea6921","fromNode":"9c593fe917cb7308","fromSide":"right","toNode":"9253683a8b20ef06","toSide":"left"},
+		{"id":"2219037fd1781c58","fromNode":"9253683a8b20ef06","fromSide":"right","toNode":"55bef7bc1fabd7ae","toSide":"left"},
+		{"id":"bd4ec2054212914e","fromNode":"55bef7bc1fabd7ae","fromSide":"right","toNode":"9f34aece73e5b09a","toSide":"left"},
+		{"id":"e7f036b02c311aaf","fromNode":"9f34aece73e5b09a","fromSide":"right","toNode":"57b44f1b71cab2b0","toSide":"left"},
+		{"id":"2d9c5aac2495745b","fromNode":"57b44f1b71cab2b0","fromSide":"right","toNode":"a6f1056fa904f501","toSide":"left"},
+		{"id":"fa09dbb812d32aad","fromNode":"a6f1056fa904f501","fromSide":"right","toNode":"26b6b06ac137727f","toSide":"left"},
+		{"id":"c556b46489e411fb","fromNode":"26b6b06ac137727f","fromSide":"right","toNode":"218bbadc60d81cd3","toSide":"left"},
+		{"id":"1c1679ceda09a3bf","fromNode":"218bbadc60d81cd3","fromSide":"right","toNode":"b4254aab3fd942c1","toSide":"left"},
+		{"id":"b9d896bf324d8de3","fromNode":"b4254aab3fd942c1","fromSide":"right","toNode":"a54f4ae2583740cd","toSide":"left"},
+		{"id":"3969f68d5f88fb2f","fromNode":"a54f4ae2583740cd","fromSide":"right","toNode":"0390952669681cce","toSide":"left"}
+	]
+}
