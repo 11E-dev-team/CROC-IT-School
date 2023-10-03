@@ -4,6 +4,7 @@
 
 ### Files:
 - [Application](/files/req/179dev.md) - [pdf](/files/req/179dev.pdf)
+- [Project concept](https://docs.google.com/presentation/d/1u_0tXzJ5D-aHvOBS8AX-9y-oxn7tx1afJlgm5UDk8ns/edit?usp=sharing)
 
 ## CROC Chronology
 ### Meetings files
