@@ -40,17 +40,62 @@
 
 <details><summary><h3 style="display:inline">Пользователь</h3></summary>
 
-<details><summary><h3 style="display:inline">Ученик</h3></summary>
+- <details><summary><h3 style="display:inline">Учитель</h3></summary>
+    <b>Кто таков:</b>
+    
+    Любой человек, который хочет проводить занятия с иллюстрированием различной информации
 
-</details>
+    <b>Чего хочет:</b>
+
+    Возможность 
+
+    <b>Что мы от него хотим:</b>
+
+    <b>Наше ценностное предложение для него</b>
+
+    </details>
+
+- <details><summary><h3 style="display:inline">Ученик</h3></summary>
+    <b>Кто таков:</b>
+
+    <b>Чего хочет:</b>
+
+    <b>Что мы от него хотим:</b>
+
+    <b>Наше ценностное предложение для него</b>
+
+    </details>
+
 
 </details>
 
 <details><summary><h3 style="display:inline">Заказчик</h3></summary>
 
+- <details><summary><h3 style="display:inline">Образовательные организации</h3></summary>
+    <b>Кто таков:</b>
+
+    <b>Чего хочет:</b>
+
+    <b>Что мы от него хотим:</b>
+
+    <b>Наше ценностное предложение для него</b>
+
+    </details>
+
 </details>
 
 <details><summary><h3 style="display:inline">Партнеры</h3></summary>
+
+- <details><summary><h3 style="display:inline">Zoom</h3></summary>
+    <b>Кто таков:</b>
+
+    <b>Чего хочет:</b>
+
+    <b>Что мы от него хотим:</b>
+
+    <b>Наше ценностное предложение для него</b>
+
+    </details>
 
 </details>
 
@@ -59,6 +104,17 @@
 </details>
 
 <details><summary><h3 style="display:inline">Регулятор</h3></summary>
+
+- <details><summary><h3 style="display:inline">Роскомнадзор</h3></summary>
+    <b>Кто таков:</b>
+
+    <b>Чего хочет:</b>
+
+    <b>Что мы от него хотим:</b>
+
+    <b>Наше ценностное предложение для него</b>
+
+    </details>
 
 </details>
 
