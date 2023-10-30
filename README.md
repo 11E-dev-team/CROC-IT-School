@@ -26,29 +26,60 @@
 
 ### Основные стейкхолдеры проблемной ситуации
 
-<details><summary><h3 style="display:inline">Учитель</h3></summary>
+<details><summary><h3 style="display:inline">Преподаватель</h3></summary>
     
 </details>
-<details><summary><h3 style="display:inline">Заинтересованный ученик</h3></summary>
-
-</details>
-<details><summary><h3 style="display:inline">Незаинтересованный ученик</h3></summary>
-
-</details>
-<details><summary><h3 style="display:inline">Администрация школы</h3></summary>  
+<details><summary><h3 style="display:inline">Ученик</h3></summary>
 
 </details>
 
 ### Решение
 Для учащихся и преподавателей, которым нужно эффективное и удобное дистанционное обучение, наше веб-приложение будет предоставлять возможность вести свои персональные доски, на которых преподаватель может вносить правки и оставлять комментарии, тем самым помогая ученикам. В отличие от Zoom и Google Class - приложений, которыми пользуется больинство людей на дистанционном обучении, наш продукт реализует возможности очного обучения в дистанционном формате, а именно возможность во время занятий отслеживать, что пишут ученики, делать пометки в их тетрадях (персональных досках).
 
-Web-платформа имеющая функционал доступный ученикам и учителям во время занятий в классе (кроме метания ручкой)
 ### Основные стейкхолдеры решения
+
+<details><summary><h3 style="display:inline">Пользователь</h3></summary>
+
+<details><summary><h3 style="display:inline">Ученик</h3></summary>
+
+</details>
+
+</details>
+
+<details><summary><h3 style="display:inline">Заказчик</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Партнеры</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Конкуренты</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Регулятор</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Команда</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Место внедрения и его держатель</h3></summary>
+
+</details>
+
+<details><summary><h3 style="display:inline">Источники ресурсов</h3></summary>
+
+</details>
+
+
 ### Функциональные требования к системе
 #### Основной интерфейс 
 - Регистрация/вход для учителей и учеников
 - Создание и редактирование групп учеников
-- Запуск/проведение/планирование занятий с группами учеников + календарь занятий
+- Запуск/проведение занятий с группами учеников
 - Возможность быстро подключаться к занятиям
 #### Интерфейс занятия
 - Редактирование персональной доски для всех участников занятия
@@ -56,12 +87,21 @@ Web-платформа имеющая функционал доступный у
 - Просмотр доски учителя для учеников
 - Завершение
 #### Инструменты для редактировния
--  
+- Рука
+- Ручка
+- Ластик
+- Формы
+- Таблицы
+- Действие вперед/назад
+- Текст
+- Комментарии
 ### Экраны системы/Пользовательские интерфейсы
-[Miroboard](https://miro.com/app/board/uXjVNdDQkYo=/?share_link_id=972087828756)
+[Miroboard](https://miro.com/app/board/uXjVNdDQkYo=/?share_link_id=972087828756)  
+[Figma](https://www.figma.com/file/EoIpkxRrHIX1vrN87qRwh3/Main?type=design&node-id=0%3A1&mode=design&t=qZz0O6mbMLZhHPuO-1)
+
 ### Функциональные компоненты решения
 - Клиентская часть (web app)
-- Хост + сервер
+- Хостинг + сервер
 - База данных
 ### Технологии для создания компонентов решения
 - Клиентская часть
