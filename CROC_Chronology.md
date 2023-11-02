@@ -12,3 +12,6 @@
 
 [Project concept](https://docs.google.com/presentation/d/1u_0tXzJ5D-aHvOBS8AX-9y-oxn7tx1afJlgm5UDk8ns/edit?usp=sharing)  
 [Project passport](/README.md)
+### 4 meeting
+
+[Systems](https://miro.com/app/board/uXjVNTDPQyk=/?share_link_id=973650198036) - Miro
